@@ -2,14 +2,15 @@
 ![img](img/img1.jpeg)
 
 ## How to download
-1. Go to this page's (Release) files
-2. 2. Download the `Flying_Gardeners.zip` file,
+1. Go to this page's [Release](https://github.com/Boombastick4/Flying_Gardeners/releases/download/1.0.2/Flying.Gardeners.zip) files or download the repository directly 
+2. 2. Download the `Flying_Gardeners.zip` file. 
 3. Open your launcher of choice and import the pack there
 
 **For Prism Launcher**
 ![PrismLauncher](img/PrismLauncherImport.png)
 
 **For CurseForge** 
+
 ![CurseForge](img/CurseForgeImport.png)
 
 4. Wait for the launcher to import all the mods. 
