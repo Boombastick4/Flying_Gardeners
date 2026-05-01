@@ -1,5 +1,5 @@
 # Flying Gardeners Modpack
-![img](doc/img1.jpeg)
+![img](img/img1.jpeg)
 
 ## How to download
 1. Go to this page's (Release) files
