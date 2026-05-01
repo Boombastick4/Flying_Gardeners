@@ -24,3 +24,9 @@
 
 > Shaders are not included in the back, they are up to the user and to their liking. 
 > Shader packs are included, but also disabled by default and up to the player's liking. 
+
+**For CurseForge** 
+
+4. Wait for the launcher to import all the mods. 
+> NOTE: There is a chance that this popup might appear when downloading the mods
+> 
