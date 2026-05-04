@@ -2,7 +2,7 @@
 ![img](img/img1.jpeg)
 
 ## How to download
-1. Go to this page's [Release](https://github.com/Boombastick4/Flying_Gardeners/releases/download/1.0.2/Flying.Gardeners.zip) files or download the repository directly 
+1. Go to this page's [Release](https://github.com/Boombastick4/Flying_Gardeners/releases/download/1.1.4/Flying.Gardeners.zip) files or download the repository directly 
 2. 2. Download the `Flying_Gardeners.zip` file. 
 3. Open your launcher of choice and import the pack there
 
@@ -16,6 +16,7 @@
 4. Wait for the launcher to import all the mods. 
 > NOTE: There is a chance that this popup might appear when downloading the mods
 > ![optimizations](img/Optimizations.png)
+> 
 > These are optimization mods. You can add them or ignore them, its up to you. The pack has them disabled by default
 > After You choose to add them or not, Click OK
 5. The Pack has been sucessfully installed :D 
@@ -26,8 +27,4 @@
 > Shaders are not included in the back, they are up to the user and to their liking. 
 > Shader packs are included, but also disabled by default and up to the player's liking. 
 
-**For CurseForge** 
 
-4. Wait for the launcher to import all the mods. 
-> NOTE: There is a chance that this popup might appear when downloading the mods
-> 
