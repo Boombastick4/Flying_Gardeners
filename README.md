@@ -2,7 +2,7 @@
 ![img](img/img1.jpeg)
 
 ## How to download
-1. Go to this page's [Release](https://github.com/Boombastick4/Flying_Gardeners/releases/download/1.1.4/Flying.Gardeners.zip) files or download the repository directly 
+1. Go to this page's [Release](https://github.com/Boombastick4/Flying_Gardeners/releases/download/Release/Flying.Gardeners.zip) files or download the repository directly 
 2. 2. Download the `Flying_Gardeners.zip` file. 
 3. Open your launcher of choice and import the pack there
 
