@@ -16,7 +16,6 @@
 4. Wait for the launcher to import all the mods. 
 > NOTE: There is a chance that this popup might appear when downloading the mods
 > ![optimizations](img/Optimizations.png)
-> 
 > These are optimization mods. You can add them or ignore them, its up to you. The pack has them disabled by default
 > After You choose to add them or not, Click OK
 5. The Pack has been sucessfully installed :D 
@@ -24,7 +23,5 @@
 
 #### A note about shaders
 
-> Shaders are not included in the back, they are up to the user and to their liking. 
-> Shader packs are included, but also disabled by default and up to the player's liking. 
-
+> Shaders and shader packs are included in the modpack, but they are disabled by default. They can be enabled/configured by the user to their liking.  
 
