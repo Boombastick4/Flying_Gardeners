@@ -1,146 +1,169 @@
-- [AI\-Improvements](https://www.curseforge.com/projects/233019) [0\.5\.3]
-- [Accessories](https://www.curseforge.com/projects/938917) [1\.1\.0\-beta\.53\+1\.21\.1]
-- [Accessories Compatibility Layer](https://www.curseforge.com/projects/1315611) [0\.1\.12]
-- [Aeronautics Claims](https://www.curseforge.com/projects/1514529) [0\.8\.5]
-- [Aggro Indicator](https://www.curseforge.com/projects/882713) [2\.0\.4]
-- [Alex's Mobs Up](https://www.curseforge.com/projects/1539192) [0\.2\.1]
-- [Alexs Delight](https://www.curseforge.com/projects/556448) [1\.6]
-- [Almanac](https://www.curseforge.com/projects/1115285) [1\.5\.2]
-- [Animal Pen](https://www.curseforge.com/projects/1206722) [2\.3\.2]
-- [Aquaculture 2](https://www.curseforge.com/projects/60028) [2\.7\.21]
-- [Aquaculture Delight](https://www.curseforge.com/projects/961988) [1\.1\.0]
-- [Architectury](https://www.curseforge.com/projects/419699) [13\.0\.8]
-- [Athena](https://www.curseforge.com/projects/841890) [4\.0\.6]
-- [BCLib](https://www.curseforge.com/projects/1422283) [21\.0\.20]
-- [Balm](https://www.curseforge.com/projects/531761) [21\.0\.56]
-- [Better Compatibility Checker](https://www.curseforge.com/projects/551894) [21\.1\.8]
-- [Better End](https://www.curseforge.com/projects/1422294) [21\.0\.24]
-- [Bountiful](https://www.curseforge.com/projects/309516) [8\.0\.0\-beta\.2]
-- [CC Redstone Link Bridge](https://modrinth.com/mod/k3y2uvYF) [1\.0\.0]
-- [CC: Sable](https://www.curseforge.com/projects/1475663) [1\.2\.4]
-- [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) [1\.118\.0]
-- [CC:C Bridge](https://www.curseforge.com/projects/656214) [1\.7\.2]
-- [Chipped](https://www.curseforge.com/projects/456956) [4\.0\.2]
-- [Chunky](https://www.curseforge.com/projects/485681) [1\.4\.23]
-- [Citadel Up](https://www.curseforge.com/projects/1539190) [0\.1\.6]
-- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) [1\.6\.2]
-- [Cloth Config v15 API](https://www.curseforge.com/projects/348521) [15\.0\.140]
-- [Clumps](https://www.curseforge.com/projects/256717) [19\.0\.0\.1]
-- [Connectivity Mod](https://www.curseforge.com/projects/470193) [7\.6]
-- [Continents](https://www.curseforge.com/projects/682515) [1\.1\.13]
-- [CoroUtil](https://www.curseforge.com/projects/237749) [1\.21\.0\-1\.3\.9]
-- [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1\.21\.1\-v1\-neoforge]
-- [CraftTweaker](https://www.curseforge.com/projects/239197) [21\.0\.38]
-- [Crawl on Demand](https://www.curseforge.com/projects/876210) [1\.2\.0]
-- [Create](https://www.curseforge.com/projects/328085) [6\.0\.10]
-- [Create Aeronautics](https://www.curseforge.com/projects/676721) [1\.2\.1]
-- [Create Compact Gearbox](https://www.curseforge.com/projects/1527808) [1\.0\.2]
-- [Create Compact Transmission](https://www.curseforge.com/projects/1468930) [1\.0\.5]
-- [Create Confectionery](https://www.curseforge.com/projects/531834) [1\.1\.0]
-- [Create Deco](https://www.curseforge.com/projects/509285) [2\.1\.3]
-- [Create Diesel Generators](https://www.curseforge.com/projects/869316) [1\.21\.1\-1\.3\.11]
-- [Create Dynamic Lights](https://www.curseforge.com/projects/1528076) [2\.3\.1\-sodium\-sable]
-- [Create Hypertube](https://www.curseforge.com/projects/1281336) [0\.4\.0\-COMPAT]
-- [Create Propulsion: Simulated](https://www.curseforge.com/projects/1522736) [1\.1\.4]
-- [Create Slice & Dice](https://www.curseforge.com/projects/659674) [4\.2\.4]
-- [Create Tracks](https://www.curseforge.com/projects/1519765) [1\.0\.1]
-- [Create cobblestone](https://www.curseforge.com/projects/1023532) [1\.4\.9\+neoforge\-1\.21\.1\-130]
-- [Create: Addictives](https://www.curseforge.com/projects/1474436) [3\.1\.1]
-- [Create: Bells & Whistles](https://www.curseforge.com/projects/905040) [0\.4\.7\-1\.21\.1]
-- [Create: CC Better Recipes](https://modrinth.com/mod/WZfuGM1m) [1\.2\.0]
-- [Create: Chipped](https://www.curseforge.com/projects/1321045) [1\.0\.0]
-- [Create: Connected](https://www.curseforge.com/projects/947914) [1\.1\.16\-mc1\.21\.1]
-- [Create: Copycats\+](https://www.curseforge.com/projects/968398) [3\.0\.4\+mc\.1\.21\.1\-neoforge]
-- [Create: Dragons Plus](https://www.curseforge.com/projects/1216624) [1\.10\.0b]
-- [Create: Enchantment Industry](https://www.curseforge.com/projects/688768) [2\.3\.1]
-- [Create: Food](https://www.curseforge.com/projects/959439) [2\.4\.0]
-- [Create: Integrated Farming](https://www.curseforge.com/projects/1249131) [1\.2\.2]
-- [Create: Interiors](https://www.curseforge.com/projects/906239) [0\.6\.1]
-- [Create: Numismatics](https://www.curseforge.com/projects/1473449) [1\.0\.19integration\+neoforge\-mc1\.21\.1\-local]
-- [Create: Oxidized](https://www.curseforge.com/projects/953729) [0\.1\.3]
-- [Create: Power Loader](https://www.curseforge.com/projects/936020) [2\.0\.3\-mc1\.21\.1]
-- [Create: Sound of Steam](https://www.curseforge.com/projects/1196142) [0\.8\.2\+1\.21\.1]
-- [Create: Steam 'n' Rails 1\.21\.1](https://www.curseforge.com/projects/1414670) [0\.2\.0\-beta\.2\+neoforge\-mc1\.21\.1]
-- [Create: Transmission](https://www.curseforge.com/projects/1354280) [1\.1\.2\+neoforge\-create6\-1\.21\.1]
-- [Critters and Companions](https://www.curseforge.com/projects/574913) [1\.21\.1\-2\.3\.4]
-- [Cupboard mod](https://www.curseforge.com/projects/326652) [3\.5]
-- [Curios API](https://www.curseforge.com/projects/309927) [9\.5\.1\+1\.21\.1]
-- [Delightful Creators](https://www.curseforge.com/projects/1275340) [1\.2]
-- [Display Delight](https://www.curseforge.com/projects/1144296) [1\.6\.0]
-- [Distant Horizons](https://www.curseforge.com/projects/508933) [3\.0\.3\-b]
-- [Do a Barrel Roll](https://www.curseforge.com/projects/663658) [3\.7\.3]
-- [Drive By Wire](https://www.curseforge.com/projects/1520378) [0\.2\.9]
-- [Drive by Wire Recipes with Sable](https://www.curseforge.com/projects/1532739) [1\.0\.0]
-- [EMI](https://www.curseforge.com/projects/580555) [1\.1\.22\+1\.21\.1\+neoforge]
-- [EMI Enchanting](https://www.curseforge.com/projects/936713) [0\.1\.2\+1\.21\+neoforge]
-- [EMI Loot](https://www.curseforge.com/projects/681783) [0\.7\.9\+1\.21\+neoforge]
-- [Exposure](https://www.curseforge.com/projects/871755) [1\.9\.16]
-- [Exposure Catalog](https://www.curseforge.com/projects/1023882) [1\.1\.1]
-- [Farmer's Delight](https://www.curseforge.com/projects/398521) [1\.3\.1]
-- [Ferrite Core](https://www.curseforge.com/projects/429235) [7\.0\.3]
-- [Forgified Fabric API](https://www.curseforge.com/projects/889079) [0\.116\.7\+2\.2\.4\+1\.21\.1]
-- [Fzzy Config](https://www.curseforge.com/projects/1005914) [0\.7\.6\+1\.21\+neoforge]
-- [GeckoLib 4](https://www.curseforge.com/projects/388172) [4\.8\.4]
-- [Gpu memory leak fix](https://www.curseforge.com/projects/882495) [1\.8]
-- [Horseman](https://www.curseforge.com/projects/1082085) [1\.5\.9]
-- [InControl](https://www.curseforge.com/projects/257356) [1\.21\-10\.2\.6]
-- [Iris](https://www.curseforge.com/projects/455508) [1\.8\.12\-snapshot\+mc1\.21\.1\-local]
-- [Jade](https://www.curseforge.com/projects/324717) [15\.10\.5\+neoforge]
-- [Jade Addons](https://www.curseforge.com/projects/583345) [6\.1\.0\+neoforge]
-- [JamLib](https://www.curseforge.com/projects/623764) [1\.3\.6\+1\.21\.1]
-- [Just Enough Items](https://www.curseforge.com/projects/238222) [19\.27\.0\.340]
-- [Just Enough Resources](https://www.curseforge.com/projects/240630) [1\.6\.0\.17]
-- [Kambrik](https://www.curseforge.com/projects/455585) [8\.0\.0\-beta\.2]
-- [Kotlin for Forge](https://www.curseforge.com/projects/351264) [7471280]
-- [Let Me Despawn](https://www.curseforge.com/projects/663477) [1\.5\.0]
-- [Lithium](https://www.curseforge.com/projects/360438) [0\.15\.3\+mc1\.21\.1]
-- [Lithostitched](https://www.curseforge.com/projects/936015) [1\.7\.3]
-- [Lootr](https://www.curseforge.com/projects/361276) [1\.21\.1\-1\.11\.37\.120]
-- [ModernFix](https://www.curseforge.com/projects/790626) [5\.27\.7\+mc1\.21\.1]
-- [Nature's Compass](https://www.curseforge.com/projects/252848) [1\.21\.1\-3\.4\.0\-neoforge]
-- [No Chat Reports](https://www.curseforge.com/projects/634062) [1\.21\.1\-v2\.9\.1]
-- [Nutritional Balance](https://www.curseforge.com/projects/448222) [1\.21\.1\-7\.0\.3]
-- [Open Parties and Claims](https://www.curseforge.com/projects/636608) [0\.26\.2]
-- [Placebo](https://www.curseforge.com/projects/283644) [9\.9\.1]
-- [Polymorph](https://www.curseforge.com/projects/388800) [1\.1\.0\+1\.21\.1]
-- [Quality Food](https://www.curseforge.com/projects/973932) [2\.3\.4]
-- [ReEstrogen](https://www.curseforge.com/projects/1392695) [2\.7]
-- [Reese's Sodium Options](https://www.curseforge.com/projects/511319) [1\.8\.3\+mc1\.21\.4]
-- [Resourceful Lib](https://www.curseforge.com/projects/570073) [3\.0\.12]
-- [Sable](https://www.curseforge.com/projects/1312371) [1\.2\.2]
-- [Searchables](https://www.curseforge.com/projects/858542) [1\.0\.2]
-- [ShulkerBoxTooltip](https://www.curseforge.com/projects/315811) [5\.1\.9\+1\.21\.1]
-- [Simple Voice Chat](https://www.curseforge.com/projects/416089) [1\.21\.1\-2\.6\.17]
-- [Simple Weather](https://www.curseforge.com/projects/983390) [1\.0\.13\-hotfix]
-- [Smoothchunk mod](https://www.curseforge.com/projects/582327) [4\.1]
-- [Sodium](https://www.curseforge.com/projects/394468) [0\.6\.13\+mc1\.21\.1]
-- [Sodium Dynamic Lights](https://www.curseforge.com/projects/551736) [1\.0\.9]
-- [Sodium Extra](https://www.curseforge.com/projects/447673) [0\.6\.0\+mc1\.21\.1]
-- [Sodium Options API](https://www.curseforge.com/projects/1103431) [1\.0\.10]
-- [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3\.25\.44]
-- [Sophisticated Backpacks Create Integration](https://www.curseforge.com/projects/1238567) [0\.1\.5]
-- [Sophisticated Core](https://www.curseforge.com/projects/618298) [1\.4\.38]
-- [Spice of Life: Carrot Edition](https://www.curseforge.com/projects/277616) [1\.16\.6]
-- [Stardew Fishing](https://www.curseforge.com/projects/1066037) [3\.6]
-- [TT20](https://www.curseforge.com/projects/1368326) [0\.8\.0]
-- [Tectonic](https://www.curseforge.com/projects/686836) [3\.0\.22]
-- [Terralith](https://www.curseforge.com/projects/513688) [2\.5\.8]
-- [Tide](https://www.curseforge.com/projects/884685) [2\.0\.3]
-- [Tide Extra Compatibility](https://modrinth.com/mod/goMfyYSL) [2\.2\.0]
-- [Toast Control](https://www.curseforge.com/projects/271740) [9\.0\.1]
-- [Untitled Duck Mod](https://www.curseforge.com/projects/451789) [1\.5\.2]
-- [What Are They Up To](https://www.curseforge.com/projects/945479) [1\.21\.0\-1\.2\.7]
-- [WorldWeaver](https://www.curseforge.com/projects/1422284) [21\.0\.20]
-- [WunderLib](https://www.curseforge.com/projects/1422273) [21\.0\.10]
-- [Xaero Train Map](https://www.curseforge.com/projects/1295594) [1\.0\.0]
-- [Xaero's Minimap](https://www.curseforge.com/projects/263420) [25\.3\.13]
-- [Xaero's World Map](https://www.curseforge.com/projects/317780) [1\.40\.16]
-- [YetAnotherConfigLib](https://www.curseforge.com/projects/667299) [3\.8\.2\+1\.21\.1\-neoforge]
-- [\[Let's Do\] API](https://www.curseforge.com/projects/864599) [1\.3\.0\-beta\-release]
-- [\[Let's Do\] Beachparty](https://www.curseforge.com/projects/858691) [2\.1\.4]
-- [\[Let's Do\] Vinery](https://www.curseforge.com/projects/704465) [1\.5\.3]
-- [create: things and misc](https://www.curseforge.com/projects/652202) [1\.0\.0]
-- [emi\-letsdo\-compat](https://www.curseforge.com/projects/1063821) [2\.0\.1]
-- [fastasyncworldsave mod](https://www.curseforge.com/projects/951499) [2\.6]
-- [oωo](https://www.curseforge.com/projects/532610) [0\.12\.15\.5\-beta\.1\+1\.21]
-- [spark](https://www.curseforge.com/projects/361579) [1\.10\.124]
+<html><body><ul>
+	<li><a href="https://www.curseforge.com/projects/233019">AI-Improvements</a> [0.5.3]</li>
+	<li><a href="https://www.curseforge.com/projects/938917">Accessories</a> [1.1.0-beta.53+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1315611">Accessories Compatibility Layer</a> [0.1.12]</li>
+	<li><a href="https://www.curseforge.com/projects/1526820">Aeronautics Camera Sync</a> [1.3.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1514529">Aeronautics Claims</a> [0.9.0]</li>
+	<li><a href="https://www.curseforge.com/projects/882713">Aggro Indicator</a> [2.0.4]</li>
+	<li><a href="https://www.curseforge.com/projects/1539192">Alex's Mobs Up</a> [0.2.5]</li>
+	<li><a href="https://www.curseforge.com/projects/556448">Alexs Delight</a> [1.6]</li>
+	<li><a href="https://www.curseforge.com/projects/1115285">Almanac</a> [1.5.2]</li>
+	<li><a href="https://www.curseforge.com/projects/1206722">Animal Pen</a> [2.4.2]</li>
+	<li><a href="https://www.curseforge.com/projects/60028">Aquaculture 2</a> [2.7.21]</li>
+	<li><a href="https://www.curseforge.com/projects/961988">Aquaculture Delight</a> [1.1.0]</li>
+	<li><a href="https://www.curseforge.com/projects/419699">Architectury</a> [13.0.8]</li>
+	<li><a href="https://www.curseforge.com/projects/841890">Athena</a> [4.0.6]</li>
+	<li><a href="https://www.curseforge.com/projects/1422283">BCLib</a> [21.0.21]</li>
+	<li><a href="https://www.curseforge.com/projects/531761">Balm</a> [21.0.59]</li>
+	<li><a href="https://www.curseforge.com/projects/551894">Better Compatibility Checker</a> [21.1.8]</li>
+	<li><a href="https://www.curseforge.com/projects/1422294">Better End</a> [21.0.25]</li>
+	<li><a href="https://www.curseforge.com/projects/309516">Bountiful</a> [8.0.0-beta.2]</li>
+	<li><a href="https://modrinth.com/mod/k3y2uvYF">CC Redstone Link Bridge</a> [1.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1475663">CC: Sable</a> [1.3.4]</li>
+	<li><a href="https://modrinth.com/mod/gu7yAYhd">CC: Tweaked</a> [1.120.0]</li>
+	<li><a href="https://www.curseforge.com/projects/656214">CC:C Bridge</a> [1.7.3]</li>
+	<li><a href="https://www.curseforge.com/projects/456956">Chipped</a> [4.0.2]</li>
+	<li><a href="https://www.curseforge.com/projects/485681">Chunky</a> [1.4.23]</li>
+	<li><a href="https://www.curseforge.com/projects/1539190">Citadel Up</a> [0.1.6]</li>
+	<li><a href="https://www.curseforge.com/projects/1528764">Climbable Ropes for Create Aeronautics</a> [2.0.1]</li>
+	<li><a href="https://www.curseforge.com/projects/348521">Cloth Config v15 API</a> [15.0.140]</li>
+	<li><a href="https://www.curseforge.com/projects/256717">Clumps</a> [19.0.0.1]</li>
+	<li><a href="https://www.curseforge.com/projects/470193">Connectivity Mod</a> [7.6]</li>
+	<li><a href="https://www.curseforge.com/projects/682515">Continents</a> [1.1.13]</li>
+	<li><a href="https://www.curseforge.com/projects/237749">CoroUtil</a> [1.21.0-1.3.9]</li>
+	<li><a href="https://www.curseforge.com/projects/237307">CosmeticArmorReworked</a> [1.21.1-v1-neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/239197">CraftTweaker</a> [21.0.38]</li>
+	<li><a href="https://www.curseforge.com/projects/876210">Crawl on Demand</a> [1.2.0]</li>
+	<li><a href="https://www.curseforge.com/projects/328085">Create</a> [6.0.10]</li>
+	<li><a href="https://modrinth.com/mod/oWaK0Q19">Create Aeronautics</a> [1.3.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1539794">Create Aeronautics: Delivery Required</a> [1.0.2]</li>
+	<li><a href="https://www.curseforge.com/projects/1529882">Create Aeronautics: Throwable Rope Connector</a> [0.3.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1548056">Create Aeronautics: Transmission &amp; Linkage</a> [0.2.5]</li>
+	<li><a href="https://www.curseforge.com/projects/1546625">Create Cardan Shafts</a> [0.1.6]</li>
+	<li><a href="https://www.curseforge.com/projects/1527808">Create Compact Gearbox</a> [1.0.2]</li>
+	<li><a href="https://www.curseforge.com/projects/1468930">Create Compact Transmission</a> [1.0.7]</li>
+	<li><a href="https://www.curseforge.com/projects/531834">Create Confectionery</a> [1.1.0]</li>
+	<li><a href="https://www.curseforge.com/projects/509285">Create Deco</a> [2.1.3]</li>
+	<li><a href="https://www.curseforge.com/projects/1533137">Create Deep Seas</a> [2.2.4]</li>
+	<li><a href="https://www.curseforge.com/projects/869316">Create Diesel Generators</a> [1.21.1-1.3.13]</li>
+	<li><a href="https://www.curseforge.com/projects/1528076">Create Dynamic Lights</a> [2.3.1-sodium-sable]</li>
+	<li><a href="https://www.curseforge.com/projects/1281336">Create Hypertube</a> [0.5.0-ALPHA]</li>
+	<li><a href="https://www.curseforge.com/projects/1522736">Create Propulsion: Simulated</a> [1.1.4]</li>
+	<li><a href="https://www.curseforge.com/projects/659674">Create Slice &amp; Dice</a> [4.2.4]</li>
+	<li><a href="https://www.curseforge.com/projects/1537945">Create Thrusters</a> [0.1.17]</li>
+	<li><a href="https://www.curseforge.com/projects/1519765">Create Tracks</a> [1.0.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1023532">Create cobblestone</a> [1.4.10+neoforge-1.21.1-139]</li>
+	<li><a href="https://www.curseforge.com/projects/1474436">Create: Addictives</a> [3.1.3]</li>
+	<li><a href="https://www.curseforge.com/projects/1522473">Create: Aeroworks</a> [1.2.11]</li>
+	<li><a href="https://www.curseforge.com/projects/905040">Create: Bells &amp; Whistles</a> [0.4.7-1.21.1]</li>
+	<li><a href="https://modrinth.com/mod/WZfuGM1m">Create: CC Better Recipes</a> [1.2.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1321045">Create: Chipped</a> [1.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/947914">Create: Connected</a> [1.2.2-mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/968398">Create: Copycats+</a> [3.0.4+mc.1.21.1-neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/1216624">Create: Dragons Plus</a> [1.11.2b]</li>
+	<li><a href="https://www.curseforge.com/projects/688768">Create: Enchantment Industry</a> [2.5.0-preview-alpha1]</li>
+	<li><a href="https://www.curseforge.com/projects/959439">Create: Food</a> [2.5.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1249131">Create: Integrated Farming</a> [1.2.6]</li>
+	<li><a href="https://www.curseforge.com/projects/906239">Create: Interiors</a> [0.6.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1473449">Create: Numismatics</a> [1.0.19integration+neoforge-mc1.21.1-local]</li>
+	<li><a href="https://www.curseforge.com/projects/889722">Create: Numismatics</a> [1.0.20+neoforge-mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1339392">Create: Numismatics Utils</a> [8265783]</li>
+	<li><a href="https://www.curseforge.com/projects/953729">Create: Oxidized</a> [0.1.3]</li>
+	<li><a href="https://www.curseforge.com/projects/936020">Create: Power Loader</a> [2.0.5-mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1196142">Create: Sound of Steam</a> [0.8.2+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1414670">Create: Steam 'n' Rails 1.21.1</a> [0.3.0-alpha.2+neoforge-mc1.21.1]</li>
+	<li><a href="https://modrinth.com/mod/RYJzdkDr">Create: Threaded Trains</a> [1.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1354280">Create: Transmission</a> [1.2.1+neoforge-create6-1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/898849">Create: Tweaked Controllers</a> [1.20.1-1.2.7]</li>
+	<li><a href="https://www.curseforge.com/projects/574913">Critters and Companions</a> [1.21.1-2.3.4]</li>
+	<li><a href="https://www.curseforge.com/projects/326652">Cupboard mod</a> [3.8]</li>
+	<li><a href="https://www.curseforge.com/projects/309927">Curios API</a> [9.5.1+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1275340">Delightful Creators</a> [1.2]</li>
+	<li><a href="https://modrinth.com/mod/x49wilh8">Design n' Decor</a> [2.2b]</li>
+	<li><a href="https://www.curseforge.com/projects/1144296">Display Delight</a> [1.7.0]</li>
+	<li><a href="https://www.curseforge.com/projects/508933">Distant Horizons</a> [3.0.3-b]</li>
+	<li><a href="https://www.curseforge.com/projects/663658">Do a Barrel Roll</a> [3.7.3]</li>
+	<li><a href="https://www.curseforge.com/projects/1520378">Drive By Wire</a> [0.3.0]</li>
+	<li><a href="https://www.curseforge.com/projects/1532739">Drive by Wire Recipes with Sable</a> [1.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/580555">EMI</a> [1.1.24+1.21.1+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/936713">EMI Enchanting</a> [0.1.2+1.21+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/681783">EMI Loot</a> [0.7.9+1.21+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/871755">Exposure</a> [1.9.18]</li>
+	<li><a href="https://www.curseforge.com/projects/1023882">Exposure Catalog</a> [1.1.1]</li>
+	<li><a href="https://www.curseforge.com/projects/398521">Farmer's Delight</a> [1.3.2]</li>
+	<li><a href="https://www.curseforge.com/projects/429235">Ferrite Core</a> [7.0.3]</li>
+	<li><a href="https://www.curseforge.com/projects/889079">Forgified Fabric API</a> [0.116.7+2.2.4+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1005914">Fzzy Config</a> [0.7.6+1.21+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/388172">GeckoLib 4</a> [4.8.4]</li>
+	<li><a href="https://www.curseforge.com/projects/882495">Gpu memory leak fix</a> [1.8]</li>
+	<li><a href="https://www.curseforge.com/projects/1082085">Horseman</a> [1.5.9]</li>
+	<li><a href="https://www.curseforge.com/projects/257356">InControl</a> [1.21-10.2.6]</li>
+	<li><a href="https://www.curseforge.com/projects/455508">Iris</a> [1.8.14-beta.1+mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/324717">Jade</a> [15.10.5+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/583345">Jade Addons</a> [6.1.0+neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/623764">JamLib</a> [1.3.6+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/238222">Just Enough Items</a> [19.27.0.340]</li>
+	<li><a href="https://www.curseforge.com/projects/240630">Just Enough Resources</a> [1.6.0.17]</li>
+	<li><a href="https://www.curseforge.com/projects/455585">Kambrik</a> [8.0.0-beta.2]</li>
+	<li><a href="https://www.curseforge.com/projects/351264">Kotlin for Forge</a> [7471280]</li>
+	<li><a href="https://www.curseforge.com/projects/238086">KubeJS</a> [2101.7.2-build.368]</li>
+	<li><a href="https://www.curseforge.com/projects/663477">Let Me Despawn</a> [1.5.0]</li>
+	<li><a href="https://www.curseforge.com/projects/360438">Lithium</a> [0.15.3+mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/936015">Lithostitched</a> [1.7.10+beta4]</li>
+	<li><a href="https://www.curseforge.com/projects/361276">Lootr</a> [1.21.1-1.11.37.120]</li>
+	<li><a href="https://www.curseforge.com/projects/626676">LowDragLib2</a> [2.2.24]</li>
+	<li><a href="https://www.curseforge.com/projects/790626">ModernFix</a> [5.27.14+mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/252848">Nature's Compass</a> [1.21.1-3.4.0-neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/634062">No Chat Reports</a> [1.21.1-v2.9.1]</li>
+	<li><a href="https://www.curseforge.com/projects/448222">Nutritional Balance</a> [1.21.1-7.0.3]</li>
+	<li><a href="https://www.curseforge.com/projects/636608">Open Parties and Claims</a> [0.27.5]</li>
+	<li><a href="https://www.curseforge.com/projects/283644">Placebo</a> [9.9.1]</li>
+	<li><a href="https://www.curseforge.com/projects/388800">Polymorph</a> [1.1.0+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/622888">PonderJS</a> [1.21.1-2.4.0]</li>
+	<li><a href="https://www.curseforge.com/projects/973932">Quality Food</a> [2.3.5]</li>
+	<li><a href="https://www.curseforge.com/projects/1392695">ReEstrogen</a> [2.13.1]</li>
+	<li><a href="https://www.curseforge.com/projects/511319">Reese's Sodium Options</a> [2.0.5+mc1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/570073">Resourceful Lib</a> [3.0.12]</li>
+	<li><a href="https://www.curseforge.com/projects/416294">Rhino</a> [2101.2.7-build.85]</li>
+	<li><a href="https://www.curseforge.com/projects/1312371">Sable</a> [2.0.3]</li>
+	<li><a href="https://www.curseforge.com/projects/858542">Searchables</a> [1.0.2]</li>
+	<li><a href="https://modrinth.com/mod/fJ183v3D">Separate Sable Render Distance</a> [1.8]</li>
+	<li><a href="https://www.curseforge.com/projects/315811">ShulkerBoxTooltip</a> [5.1.9+1.21.1]</li>
+	<li><a href="https://www.curseforge.com/projects/416089">Simple Voice Chat</a> [1.21.1-2.6.19]</li>
+	<li><a href="https://www.curseforge.com/projects/983390">Simple Weather</a> [1.0.13-hotfix]</li>
+	<li><a href="https://www.curseforge.com/projects/582327">Smoothchunk mod</a> [4.1]</li>
+	<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> [0.8.12-beta.1+mc1.21.1]</li>
+	<li><a href="https://modrinth.com/mod/PxQSWIcD">Sodium Dynamic Lights</a> [1.0.9]</li>
+	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> [0.8.7+mc1.21.1]</li>
+	<li><a href="https://modrinth.com/mod/Es5v4eyq">Sodium Options API</a> [1.0.10]</li>
+	<li><a href="https://www.curseforge.com/projects/422301">Sophisticated Backpacks</a> [3.25.64]</li>
+	<li><a href="https://www.curseforge.com/projects/1238567">Sophisticated Backpacks Create Integration</a> [0.1.7]</li>
+	<li><a href="https://www.curseforge.com/projects/618298">Sophisticated Core</a> [1.4.59]</li>
+	<li><a href="https://www.curseforge.com/projects/277616">Spice of Life: Carrot Edition</a> [1.16.6]</li>
+	<li><a href="https://www.curseforge.com/projects/1066037">Stardew Fishing</a> [3.7]</li>
+	<li><a href="https://www.curseforge.com/projects/1368326">TT20</a> [0.8.3]</li>
+	<li><a href="https://www.curseforge.com/projects/686836">Tectonic</a> [3.0.22]</li>
+	<li><a href="https://www.curseforge.com/projects/513688">Terralith</a> [2.5.8]</li>
+	<li><a href="https://www.curseforge.com/projects/884685">Tide</a> [2.0.3]</li>
+	<li><a href="https://modrinth.com/mod/goMfyYSL">Tide Extra Compatibility</a> [2.2.0]</li>
+	<li><a href="https://www.curseforge.com/projects/271740">Toast Control</a> [9.0.1]</li>
+	<li><a href="https://www.curseforge.com/projects/451789">Untitled Duck Mod</a> [1.5.2]</li>
+	<li><a href="https://www.curseforge.com/projects/1426984">VS Hose Connectors</a> [0.0.9]</li>
+	<li><a href="https://www.curseforge.com/projects/945479">What Are They Up To</a> [1.21.0-1.2.7]</li>
+	<li><a href="https://www.curseforge.com/projects/1422284">WorldWeaver</a> [21.0.21]</li>
+	<li><a href="https://www.curseforge.com/projects/1422273">WunderLib</a> [21.0.10]</li>
+	<li><a href="https://www.curseforge.com/projects/1295594">Xaero Train Map</a> [1.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/263420">Xaero's Minimap</a> [25.3.13]</li>
+	<li><a href="https://www.curseforge.com/projects/317780">Xaero's World Map</a> [1.40.16]</li>
+	<li><a href="https://www.curseforge.com/projects/667299">YetAnotherConfigLib</a> [3.8.2+1.21.1-neoforge]</li>
+	<li><a href="https://www.curseforge.com/projects/864599">[Let's Do] API</a> [1.3.0-beta-release]</li>
+	<li><a href="https://www.curseforge.com/projects/858691">[Let's Do] Beachparty</a> [2.1.4]</li>
+	<li><a href="https://www.curseforge.com/projects/704465">[Let's Do] Vinery</a> [1.5.3]</li>
+	<li><a href="https://modrinth.com/mod/wjpmYU1u">aero_copycats</a> [1.1.0]</li>
+	<li><a href="https://www.curseforge.com/projects/652202">create: things and misc</a> [4.1.1]</li>
+	<li><a href="https://www.curseforge.com/projects/1063821">emi-letsdo-compat</a> [2.0.1]</li>
+	<li><a href="https://www.curseforge.com/projects/951499">fastasyncworldsave mod</a> [2.6]</li>
+	<li><a href="https://www.curseforge.com/projects/532610">oωo</a> [0.12.15.5-beta.1+1.21]</li>
+	<li><a href="https://www.curseforge.com/projects/361579">spark</a> [1.10.124]</li>
+	<li>xaeromap.txt</li>
+</ul></body></html>
